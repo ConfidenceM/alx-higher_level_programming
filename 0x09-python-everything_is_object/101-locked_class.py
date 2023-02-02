@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-locked_class.py
-# Naheemah Bello
+# Confidence Munonde
 """Defines a locked class."""
 
 
